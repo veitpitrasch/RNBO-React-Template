@@ -31,7 +31,8 @@ Die JSON-Datei muss in den export-Ordner des Templates. Die Samples müssen inne
 
 ## Webseite lokal hosten
 
-Um das Projekt als Webseite lokal hosten zu können, muss Node.js sowie der Paketmanager NPM installiert sein. Wechsle nun in das Wuzelverzeichnis dieses Projekts.
+Um das Projekt als Webseite lokal hosten zu können, muss Node.js sowie der Paketmanager NPM installiert sein. Checke in der Konsole mit den Befehlen `node -v` und `npm-v`, ob das der Fall ist.
+Wechsle nun in das Wuzelverzeichnis dieses Projekts.
 Öffne hier die Konsole und installiere alle Abhängigkeiten für das Projekt mit dem Befehl `npm install`. 
 Mit `npm start` wird die App gestartet. Der Browser sollte sich automatisch öffnen. Die Adresse lautet http://localhost:3000.
 
