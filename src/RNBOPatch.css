@@ -1,0 +1,48 @@
+#rnbopatch {
+    padding: 0 1em 2em 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.delayContainer {
+    border: solid black 2px;
+    padding: .3em;
+    margin: .3em;
+    background-color: #EAE8EB;
+    border-radius: 1em;
+}
+
+.audiofileContainer {
+    border: solid black 2px;
+    padding: .3em;
+    margin: .3em;
+    background-color: #EAE8EB;
+    border-radius: 1em;
+}
+
+h1 {
+    text-align: center;
+}
+
+span:nth-child(1) {
+    color: #F5817D;
+}
+
+span:nth-child(2) {
+    color: #F5DE7D;
+}
+
+span:nth-child(3) {
+    color: #7DF5A7;
+}
+
+span:nth-child(4) {
+    color: #7D80F5;
+}
+
+button {
+    box-shadow: 5px 2px 2px black;
+    border: solid black;
+    border-radius: .3em;
+    height: 2em;
+}
